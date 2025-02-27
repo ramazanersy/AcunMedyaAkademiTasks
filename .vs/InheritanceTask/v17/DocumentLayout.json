@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramaz\\Desktop\\AcunMedyaAcademyTask\\InheritanceTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{473C93B6-F4D4-44CA-9F92-2D257D136C4D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ramaz\\desktop\\acunmedyaacademytask\\inheritancetask\\consoleapp1\\classes\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473C93B6-F4D4-44CA-9F92-2D257D136C4D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\classes\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473C93B6-F4D4-44CA-9F92-2D257D136C4D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ramaz\\desktop\\acunmedyaacademytask\\inheritancetask\\consoleapp1\\classes\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473C93B6-F4D4-44CA-9F92-2D257D136C4D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\classes\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473C93B6-F4D4-44CA-9F92-2D257D136C4D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ramaz\\desktop\\acunmedyaacademytask\\inheritancetask\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473C93B6-F4D4-44CA-9F92-2D257D136C4D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473C93B6-F4D4-44CA-9F92-2D257D136C4D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ramaz\\desktop\\acunmedyaacademytask\\inheritancetask\\consoleapp1\\classes\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473C93B6-F4D4-44CA-9F92-2D257D136C4D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\classes\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473C93B6-F4D4-44CA-9F92-2D257D136C4D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ramaz\\desktop\\acunmedyaacademytask\\inheritancetask\\consoleapp1\\classes\\audi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473C93B6-F4D4-44CA-9F92-2D257D136C4D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\classes\\audi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473C93B6-F4D4-44CA-9F92-2D257D136C4D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ramaz\\desktop\\acunmedyaacademytask\\inheritancetask\\consoleapp1\\classes\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473C93B6-F4D4-44CA-9F92-2D257D136C4D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\classes\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473C93B6-F4D4-44CA-9F92-2D257D136C4D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ramaz\\desktop\\acunmedyaacademytask\\inheritancetask\\consoleapp1\\classes\\togg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473C93B6-F4D4-44CA-9F92-2D257D136C4D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\classes\\togg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473C93B6-F4D4-44CA-9F92-2D257D136C4D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ramaz\\desktop\\acunmedyaacademytask\\inheritancetask\\consoleapp1\\classes\\toyota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473C93B6-F4D4-44CA-9F92-2D257D136C4D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\classes\\toyota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Toyota.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\AcunMedyaAcademyTask\\InheritanceTask\\ConsoleApp1\\Classes\\Toyota.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Classes\\Toyota.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\AcunMedyaAcademyTask\\InheritanceTask\\ConsoleApp1\\Classes\\Toyota.cs",
+              "RelativeToolTip": "ConsoleApp1\\Classes\\Toyota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T20:59:52.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Audi.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\AcunMedyaAcademyTask\\InheritanceTask\\ConsoleApp1\\Classes\\Audi.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Classes\\Audi.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\AcunMedyaAcademyTask\\InheritanceTask\\ConsoleApp1\\Classes\\Audi.cs",
+              "RelativeToolTip": "ConsoleApp1\\Classes\\Audi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T20:59:35.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Togg.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\AcunMedyaAcademyTask\\InheritanceTask\\ConsoleApp1\\Classes\\Togg.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Classes\\Togg.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\AcunMedyaAcademyTask\\InheritanceTask\\ConsoleApp1\\Classes\\Togg.cs",
+              "RelativeToolTip": "ConsoleApp1\\Classes\\Togg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T20:59:09.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mercedes.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\AcunMedyaAcademyTask\\InheritanceTask\\ConsoleApp1\\Classes\\Mercedes.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Classes\\Mercedes.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\AcunMedyaAcademyTask\\InheritanceTask\\ConsoleApp1\\Classes\\Mercedes.cs",
+              "RelativeToolTip": "ConsoleApp1\\Classes\\Mercedes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T20:58:34.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Porsche.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\AcunMedyaAcademyTask\\InheritanceTask\\ConsoleApp1\\Classes\\Porsche.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Classes\\Porsche.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\AcunMedyaAcademyTask\\InheritanceTask\\ConsoleApp1\\Classes\\Porsche.cs",
+              "RelativeToolTip": "ConsoleApp1\\Classes\\Porsche.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T20:57:57.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bmw.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\AcunMedyaAcademyTask\\InheritanceTask\\ConsoleApp1\\Classes\\Bmw.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Classes\\Bmw.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\AcunMedyaAcademyTask\\InheritanceTask\\ConsoleApp1\\Classes\\Bmw.cs",
+              "RelativeToolTip": "ConsoleApp1\\Classes\\Bmw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T20:57:09.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\AcunMedyaAcademyTask\\InheritanceTask\\ConsoleApp1\\Classes\\Araba.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Classes\\Araba.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\AcunMedyaAcademyTask\\InheritanceTask\\ConsoleApp1\\Classes\\Araba.cs",
+              "RelativeToolTip": "ConsoleApp1\\Classes\\Araba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T20:56:34.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\AcunMedyaAcademyTask\\InheritanceTask\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\AcunMedyaAcademyTask\\InheritanceTask\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T20:55:42.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
