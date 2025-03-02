@@ -1,0 +1,14 @@
+C:\Users\ramaz\Desktop\AcunMedyaAcademyTask\InterfacetaskAcunM\Interfacetask\bin\Debug\net8.0\Interfacetask.exe
+C:\Users\ramaz\Desktop\AcunMedyaAcademyTask\InterfacetaskAcunM\Interfacetask\bin\Debug\net8.0\Interfacetask.deps.json
+C:\Users\ramaz\Desktop\AcunMedyaAcademyTask\InterfacetaskAcunM\Interfacetask\bin\Debug\net8.0\Interfacetask.runtimeconfig.json
+C:\Users\ramaz\Desktop\AcunMedyaAcademyTask\InterfacetaskAcunM\Interfacetask\bin\Debug\net8.0\Interfacetask.dll
+C:\Users\ramaz\Desktop\AcunMedyaAcademyTask\InterfacetaskAcunM\Interfacetask\bin\Debug\net8.0\Interfacetask.pdb
+C:\Users\ramaz\Desktop\AcunMedyaAcademyTask\InterfacetaskAcunM\Interfacetask\obj\Debug\net8.0\Interfacetask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramaz\Desktop\AcunMedyaAcademyTask\InterfacetaskAcunM\Interfacetask\obj\Debug\net8.0\Interfacetask.AssemblyInfoInputs.cache
+C:\Users\ramaz\Desktop\AcunMedyaAcademyTask\InterfacetaskAcunM\Interfacetask\obj\Debug\net8.0\Interfacetask.AssemblyInfo.cs
+C:\Users\ramaz\Desktop\AcunMedyaAcademyTask\InterfacetaskAcunM\Interfacetask\obj\Debug\net8.0\Interfacetask.csproj.CoreCompileInputs.cache
+C:\Users\ramaz\Desktop\AcunMedyaAcademyTask\InterfacetaskAcunM\Interfacetask\obj\Debug\net8.0\Interfacetask.dll
+C:\Users\ramaz\Desktop\AcunMedyaAcademyTask\InterfacetaskAcunM\Interfacetask\obj\Debug\net8.0\refint\Interfacetask.dll
+C:\Users\ramaz\Desktop\AcunMedyaAcademyTask\InterfacetaskAcunM\Interfacetask\obj\Debug\net8.0\Interfacetask.pdb
+C:\Users\ramaz\Desktop\AcunMedyaAcademyTask\InterfacetaskAcunM\Interfacetask\obj\Debug\net8.0\Interfacetask.genruntimeconfig.cache
+C:\Users\ramaz\Desktop\AcunMedyaAcademyTask\InterfacetaskAcunM\Interfacetask\obj\Debug\net8.0\ref\Interfacetask.dll

@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramaz\\Desktop\\InterfaceandAbstractTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0D5BBC-50AF-4FB1-8413-AE297ED146C2}|Interfacetask\\Interfacetask.csproj|c:\\users\\ramaz\\desktop\\interfaceandabstracttask\\interfacetask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0D5BBC-50AF-4FB1-8413-AE297ED146C2}|Interfacetask\\Interfacetask.csproj|solutionrelative:interfacetask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0D5BBC-50AF-4FB1-8413-AE297ED146C2}|Interfacetask\\Interfacetask.csproj|c:\\users\\ramaz\\desktop\\interfaceandabstracttask\\interfacetask\\interfaces\\iozellik3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0D5BBC-50AF-4FB1-8413-AE297ED146C2}|Interfacetask\\Interfacetask.csproj|solutionrelative:interfacetask\\interfaces\\iozellik3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0D5BBC-50AF-4FB1-8413-AE297ED146C2}|Interfacetask\\Interfacetask.csproj|c:\\users\\ramaz\\desktop\\interfaceandabstracttask\\interfacetask\\interfaces\\iozellik2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0D5BBC-50AF-4FB1-8413-AE297ED146C2}|Interfacetask\\Interfacetask.csproj|solutionrelative:interfacetask\\interfaces\\iozellik2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0D5BBC-50AF-4FB1-8413-AE297ED146C2}|Interfacetask\\Interfacetask.csproj|c:\\users\\ramaz\\desktop\\interfaceandabstracttask\\interfacetask\\interfaces\\iozellik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0D5BBC-50AF-4FB1-8413-AE297ED146C2}|Interfacetask\\Interfacetask.csproj|solutionrelative:interfacetask\\interfaces\\iozellik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0D5BBC-50AF-4FB1-8413-AE297ED146C2}|Interfacetask\\Interfacetask.csproj|c:\\users\\ramaz\\desktop\\interfaceandabstracttask\\interfacetask\\classes\\porche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0D5BBC-50AF-4FB1-8413-AE297ED146C2}|Interfacetask\\Interfacetask.csproj|solutionrelative:interfacetask\\classes\\porche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0D5BBC-50AF-4FB1-8413-AE297ED146C2}|Interfacetask\\Interfacetask.csproj|c:\\users\\ramaz\\desktop\\interfaceandabstracttask\\interfacetask\\classes\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0D5BBC-50AF-4FB1-8413-AE297ED146C2}|Interfacetask\\Interfacetask.csproj|solutionrelative:interfacetask\\classes\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0D5BBC-50AF-4FB1-8413-AE297ED146C2}|Interfacetask\\Interfacetask.csproj|c:\\users\\ramaz\\desktop\\interfaceandabstracttask\\interfacetask\\classes\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0D5BBC-50AF-4FB1-8413-AE297ED146C2}|Interfacetask\\Interfacetask.csproj|solutionrelative:interfacetask\\classes\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0D5BBC-50AF-4FB1-8413-AE297ED146C2}|Interfacetask\\Interfacetask.csproj|c:\\users\\ramaz\\desktop\\interfaceandabstracttask\\interfacetask\\classes\\arac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0D5BBC-50AF-4FB1-8413-AE297ED146C2}|Interfacetask\\Interfacetask.csproj|solutionrelative:interfacetask\\classes\\arac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IOzellik3.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\InterfaceandAbstractTask\\Interfacetask\\Interfaces\\IOzellik3.cs",
+              "RelativeDocumentMoniker": "Interfacetask\\Interfaces\\IOzellik3.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\InterfaceandAbstractTask\\Interfacetask\\Interfaces\\IOzellik3.cs",
+              "RelativeToolTip": "Interfacetask\\Interfaces\\IOzellik3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:37:06.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOzellik2.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\InterfaceandAbstractTask\\Interfacetask\\Interfaces\\IOzellik2.cs",
+              "RelativeDocumentMoniker": "Interfacetask\\Interfaces\\IOzellik2.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\InterfaceandAbstractTask\\Interfacetask\\Interfaces\\IOzellik2.cs",
+              "RelativeToolTip": "Interfacetask\\Interfaces\\IOzellik2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:36:36.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOzellik.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\InterfaceandAbstractTask\\Interfacetask\\Interfaces\\IOzellik.cs",
+              "RelativeDocumentMoniker": "Interfacetask\\Interfaces\\IOzellik.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\InterfaceandAbstractTask\\Interfacetask\\Interfaces\\IOzellik.cs",
+              "RelativeToolTip": "Interfacetask\\Interfaces\\IOzellik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:36:08.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Porche.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\InterfaceandAbstractTask\\Interfacetask\\Classes\\Porche.cs",
+              "RelativeDocumentMoniker": "Interfacetask\\Classes\\Porche.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\InterfaceandAbstractTask\\Interfacetask\\Classes\\Porche.cs",
+              "RelativeToolTip": "Interfacetask\\Classes\\Porche.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:35:23.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mercedes.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\InterfaceandAbstractTask\\Interfacetask\\Classes\\Mercedes.cs",
+              "RelativeDocumentMoniker": "Interfacetask\\Classes\\Mercedes.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\InterfaceandAbstractTask\\Interfacetask\\Classes\\Mercedes.cs",
+              "RelativeToolTip": "Interfacetask\\Classes\\Mercedes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:34:59.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bmw.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\InterfaceandAbstractTask\\Interfacetask\\Classes\\Bmw.cs",
+              "RelativeDocumentMoniker": "Interfacetask\\Classes\\Bmw.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\InterfaceandAbstractTask\\Interfacetask\\Classes\\Bmw.cs",
+              "RelativeToolTip": "Interfacetask\\Classes\\Bmw.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:34:30.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Arac.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\InterfaceandAbstractTask\\Interfacetask\\Classes\\Arac.cs",
+              "RelativeDocumentMoniker": "Interfacetask\\Classes\\Arac.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\InterfaceandAbstractTask\\Interfacetask\\Classes\\Arac.cs",
+              "RelativeToolTip": "Interfacetask\\Classes\\Arac.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:34:12.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\InterfaceandAbstractTask\\Interfacetask\\Program.cs",
+              "RelativeDocumentMoniker": "Interfacetask\\Program.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\InterfaceandAbstractTask\\Interfacetask\\Program.cs",
+              "RelativeToolTip": "Interfacetask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:32:37.38Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

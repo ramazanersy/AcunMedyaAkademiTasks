@@ -1,0 +1,43 @@
+Abstract Class (Soyut Sınıf) Nedir ?
+
+Abstract Class, Nesneye yönelik programlamanın içerisindeki önemli kavramlardan bir tanesidir. Programlarımız içerisinde bulunan faaliyet öğelerini gizleyerek sadece sınıfın sahip olduğu işlevleri gösterir. Bu durum projemize esneklik, güvenlik ve hızlı kontrol yapısı sağlar.
+
+ Abstract (Soyut) sınıfları kullanarak, nesne üretirken bir şablon oluşturmak istememizdir diyebiliriz. Yani bir sınıf üzerinde bulunan özellikleri kullanarak yeni bir sınıf türetmek istediğimiz zaman, içerisinde bulunan bazı temel yapıları yeniden oluşturmak için override (aşırı yükleme) işlemini uygular ve sınıf yapılarına göre özel bir hale getiririz.
+
+Örnek vermek gerekirse Dünya’nın en büyük akıllı telefon üreten markalarını düşünelim. Hepsinin üretim aşamaları aynı şekilde ilerlemesine rağmen, telefon üzerinde kullandıkları mimari yapısı ve bileşenler aralarındaki farkları oluşturur. Bu senaryo içerisinde Akıllı telefonlar abstract sınıfları, akıllı telefon üretirken kullanılan yazılım, ekran, diğer mimari yapılar ise abstract metotları ve son olarak markalarda Abstract sınıfımızdan türetilen ana sınıflarımızı simgeler.
+
+bir soyut sınıf oluştururken dikkat etmemiz gereken noktalar şunlardır:
+Bir abstract (soyut) sınıf oluşturuyorsak sınıf içerisinde muhakkak bir abstract metot, eğer bir abstract metot tanımlıyorsak muhakkak sınıf yapısının da abstract class olması gerekmektedir.
+Abstract sınıf kullanılarak türetilen sınıf içerisindeki abstract metot yapısı override edilerek içerisinin doldurulması gerekir.
+
+
+
+Abstraction(Soyutlama) Nedir ?
+
+Abstraction (Soyutlama), nesne yönelimli programlamada (OOP) önemli bir prensiptir. Gereksiz ayrıntıları gizleyerek, yalnızca önemli özellikleri öne çıkarmaya denir. Bu, karmaşıklığı azaltır ve kodun daha temiz, anlaşılır ve yönetilebilir olmasını sağlar.
+
+Örneğin, bir Araba sınıfı düşünelim. Bir araba motor, tekerlekler, direksiyon gibi birçok parçadan oluşur. Ancak, bir arabayı kullanırken iç motor mekanizmasının nasıl çalıştığını bilmemize gerek yoktur. Biz sadece gaz pedalına bastığımızda hızlanmasını, frene bastığımızda durmasını bekleriz. İşte bu, soyutlamanın bir örneğidir.
+
+C# dilinde soyutlama, abstract sınıflar ve interface (arayüzler) kullanılarak uygulanabilir.
+
+
+
+Polymorphism Nedir (Çok Biçimlilik) Nedir ?
+
+Polymorphism (Çok Biçimlilik), nesne yönelimli programlamada (OOP) bir nesnenin farklı biçimlerde davranabilmesini sağlayan bir özelliktir. Aynı metot adı kullanılarak farklı işlevlerin gerçekleştirilebilmesi olarak da tanımlanabilir.
+
+C#’ta polymorphism iki şekilde uygulanır:
+Metot Overloading (Aşırı Yükleme) – Compile-time (Derleme Zamanı) polymorphism
+Metot Overriding (Ezme) – Runtime (Çalışma Zamanı) polymorphism
+
+1. Metot Overloading (Aşırı Yükleme)
+Aynı metot ismi ile farklı parametreler kullanarak farklı versiyonlar oluşturulmasıdır. Derleme zamanında belirlenir, bu yüzden Compile-time polymorphism olarak adlandırılır.
+
+2. Metot Overriding (Ezme)
+Bir alt sınıfın, üst sınıftan miras aldığı bir metodu kendine özgü şekilde yeniden tanımlamasıdır. Bu, çalıştırma zamanında belirlendiği için Runtime polymorphism olarak adlandırılır.
+
+Polymorphism’in Avantajları;
+ Esneklik sağlar: Aynı isimde farklı metotlar tanımlanabilir.
+ Kod tekrarını önler: Bir üst sınıf metodunu ezerek, farklı alt sınıflarda yeniden kullanabiliriz.
+ Bakımı kolaylaştırır: Kod daha modüler ve düzenli olur.
+ Genişletilebilirlik: Yeni sınıflar ve metodlar kolayca eklenebilir.
