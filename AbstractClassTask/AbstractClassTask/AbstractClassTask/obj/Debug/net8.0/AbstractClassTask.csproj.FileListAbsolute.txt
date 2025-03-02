@@ -1,0 +1,14 @@
+C:\Users\ramaz\Desktop\AbstractClassTask\AbstractClassTask\AbstractClassTask\bin\Debug\net8.0\AbstractClassTask.exe
+C:\Users\ramaz\Desktop\AbstractClassTask\AbstractClassTask\AbstractClassTask\bin\Debug\net8.0\AbstractClassTask.deps.json
+C:\Users\ramaz\Desktop\AbstractClassTask\AbstractClassTask\AbstractClassTask\bin\Debug\net8.0\AbstractClassTask.runtimeconfig.json
+C:\Users\ramaz\Desktop\AbstractClassTask\AbstractClassTask\AbstractClassTask\bin\Debug\net8.0\AbstractClassTask.dll
+C:\Users\ramaz\Desktop\AbstractClassTask\AbstractClassTask\AbstractClassTask\bin\Debug\net8.0\AbstractClassTask.pdb
+C:\Users\ramaz\Desktop\AbstractClassTask\AbstractClassTask\AbstractClassTask\obj\Debug\net8.0\AbstractClassTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramaz\Desktop\AbstractClassTask\AbstractClassTask\AbstractClassTask\obj\Debug\net8.0\AbstractClassTask.AssemblyInfoInputs.cache
+C:\Users\ramaz\Desktop\AbstractClassTask\AbstractClassTask\AbstractClassTask\obj\Debug\net8.0\AbstractClassTask.AssemblyInfo.cs
+C:\Users\ramaz\Desktop\AbstractClassTask\AbstractClassTask\AbstractClassTask\obj\Debug\net8.0\AbstractClassTask.csproj.CoreCompileInputs.cache
+C:\Users\ramaz\Desktop\AbstractClassTask\AbstractClassTask\AbstractClassTask\obj\Debug\net8.0\AbstractClassTask.dll
+C:\Users\ramaz\Desktop\AbstractClassTask\AbstractClassTask\AbstractClassTask\obj\Debug\net8.0\refint\AbstractClassTask.dll
+C:\Users\ramaz\Desktop\AbstractClassTask\AbstractClassTask\AbstractClassTask\obj\Debug\net8.0\AbstractClassTask.pdb
+C:\Users\ramaz\Desktop\AbstractClassTask\AbstractClassTask\AbstractClassTask\obj\Debug\net8.0\AbstractClassTask.genruntimeconfig.cache
+C:\Users\ramaz\Desktop\AbstractClassTask\AbstractClassTask\AbstractClassTask\obj\Debug\net8.0\ref\AbstractClassTask.dll

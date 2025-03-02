@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramaz\\Desktop\\AbstractClassTask\\AbstractClassTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4867814-C8BE-41F7-B6A2-53588CC39627}|AbstractClassTask\\AbstractClassTask.csproj|c:\\users\\ramaz\\desktop\\abstractclasstask\\abstractclasstask\\abstractclasstask\\abstracts\\arac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4867814-C8BE-41F7-B6A2-53588CC39627}|AbstractClassTask\\AbstractClassTask.csproj|solutionrelative:abstractclasstask\\abstracts\\arac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4867814-C8BE-41F7-B6A2-53588CC39627}|AbstractClassTask\\AbstractClassTask.csproj|c:\\users\\ramaz\\desktop\\abstractclasstask\\abstractclasstask\\abstractclasstask\\abstracts\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4867814-C8BE-41F7-B6A2-53588CC39627}|AbstractClassTask\\AbstractClassTask.csproj|solutionrelative:abstractclasstask\\abstracts\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4867814-C8BE-41F7-B6A2-53588CC39627}|AbstractClassTask\\AbstractClassTask.csproj|c:\\users\\ramaz\\desktop\\abstractclasstask\\abstractclasstask\\abstractclasstask\\abstracts\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4867814-C8BE-41F7-B6A2-53588CC39627}|AbstractClassTask\\AbstractClassTask.csproj|solutionrelative:abstractclasstask\\abstracts\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4867814-C8BE-41F7-B6A2-53588CC39627}|AbstractClassTask\\AbstractClassTask.csproj|c:\\users\\ramaz\\desktop\\abstractclasstask\\abstractclasstask\\abstractclasstask\\abstracts\\porche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4867814-C8BE-41F7-B6A2-53588CC39627}|AbstractClassTask\\AbstractClassTask.csproj|solutionrelative:abstractclasstask\\abstracts\\porche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4867814-C8BE-41F7-B6A2-53588CC39627}|AbstractClassTask\\AbstractClassTask.csproj|c:\\users\\ramaz\\desktop\\abstractclasstask\\abstractclasstask\\abstractclasstask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4867814-C8BE-41F7-B6A2-53588CC39627}|AbstractClassTask\\AbstractClassTask.csproj|solutionrelative:abstractclasstask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Porche.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\AbstractClassTask\\AbstractClassTask\\AbstractClassTask\\Abstracts\\Porche.cs",
+              "RelativeDocumentMoniker": "AbstractClassTask\\Abstracts\\Porche.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\AbstractClassTask\\AbstractClassTask\\AbstractClassTask\\Abstracts\\Porche.cs",
+              "RelativeToolTip": "AbstractClassTask\\Abstracts\\Porche.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:07:58.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mercedes.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\AbstractClassTask\\AbstractClassTask\\AbstractClassTask\\Abstracts\\Mercedes.cs",
+              "RelativeDocumentMoniker": "AbstractClassTask\\Abstracts\\Mercedes.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\AbstractClassTask\\AbstractClassTask\\AbstractClassTask\\Abstracts\\Mercedes.cs",
+              "RelativeToolTip": "AbstractClassTask\\Abstracts\\Mercedes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:07:35.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bmw.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\AbstractClassTask\\AbstractClassTask\\AbstractClassTask\\Abstracts\\Bmw.cs",
+              "RelativeDocumentMoniker": "AbstractClassTask\\Abstracts\\Bmw.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\AbstractClassTask\\AbstractClassTask\\AbstractClassTask\\Abstracts\\Bmw.cs",
+              "RelativeToolTip": "AbstractClassTask\\Abstracts\\Bmw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:07:07.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Arac.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\AbstractClassTask\\AbstractClassTask\\AbstractClassTask\\Abstracts\\Arac.cs",
+              "RelativeDocumentMoniker": "AbstractClassTask\\Abstracts\\Arac.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\AbstractClassTask\\AbstractClassTask\\AbstractClassTask\\Abstracts\\Arac.cs",
+              "RelativeToolTip": "AbstractClassTask\\Abstracts\\Arac.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:50:50.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\AbstractClassTask\\AbstractClassTask\\AbstractClassTask\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractClassTask\\Program.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\AbstractClassTask\\AbstractClassTask\\AbstractClassTask\\Program.cs",
+              "RelativeToolTip": "AbstractClassTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:50:19.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
