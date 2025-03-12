@@ -1,0 +1,53 @@
+While/Do While
+while ve do-while döngüleri arasındaki temel fark, koşulun ne zaman kontrol edildiğidir:
+
+while döngüsü: Koşul önce kontrol edilir, eğer şart sağlanıyorsa döngü çalışır. Eğer baştan şart sağlanmazsa döngü hiç çalışmaz.
+do-while döngüsü: Döngü önce bir kez çalışır, sonra koşul kontrol edilir. Yani koşul sağlanmasa bile en az bir kez çalıştırılır.
+Örneklerle Açıklama
+while Döngüsü Örneği
+csharp
+Kopyala
+Düzenle
+int sayi = 5;
+while (sayi > 0)
+{
+    Console.WriteLine("Sayı: " + sayi);
+    sayi--; // Sayıyı azalt
+}
+Çıktı:
+makefile
+Kopyala
+Düzenle
+Sayı: 5
+Sayı: 4
+Sayı: 3
+Sayı: 2
+Sayı: 1
+ Eğer sayi başta 0 olsaydı, döngü hiç çalışmazdı.
+
+do-while Döngüsü Örneği
+csharp
+Kopyala
+Düzenle
+int sayi = 0;
+do
+{
+    Console.WriteLine("Sayı: " + sayi);
+    sayi++;
+} while (sayi < 5);
+Çıktı:
+
+makefile
+Kopyala
+Düzenle
+Sayı: 0
+Sayı: 1
+Sayı: 2
+Sayı: 3
+Sayı: 4
+ Başlangıçta sayi = 0 olsa bile döngü en az bir kez çalıştı.
+while	do-while
+Koşul kontrolü	Başta yapılır	Sonda yapılır
+Döngünün ilk kez çalışması	Koşul sağlanmazsa hiç çalışmaz	En az bir kez çalışır
+Kullanım senaryosu	Koşul baştan sağlanıyorsa döngüye girmesi gerekirse	Önce bir işlem yapıp sonra koşulu kontrol etmek gerekirse
+Eğer en az bir kere çalışması gerekiyorsa do-while, aksi takdirde while kullanılır. 🚀
