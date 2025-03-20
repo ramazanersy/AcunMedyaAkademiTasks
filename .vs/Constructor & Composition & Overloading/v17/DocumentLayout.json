@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramaz\\Desktop\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA781324-F30D-45AB-A2BA-D67F8382C6E0}|Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading.csproj|c:\\users\\ramaz\\desktop\\constructor \u0026 composition \u0026 overloading\\constructor \u0026 composition \u0026 overloading\\constructor \u0026 composition \u0026 overloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA781324-F30D-45AB-A2BA-D67F8382C6E0}|Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading.csproj|solutionrelative:constructor \u0026 composition \u0026 overloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA781324-F30D-45AB-A2BA-D67F8382C6E0}|Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading.csproj|c:\\users\\ramaz\\desktop\\constructor \u0026 composition \u0026 overloading\\constructor \u0026 composition \u0026 overloading\\constructor \u0026 composition \u0026 overloading\\class\\matematik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA781324-F30D-45AB-A2BA-D67F8382C6E0}|Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading.csproj|solutionrelative:constructor \u0026 composition \u0026 overloading\\class\\matematik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA781324-F30D-45AB-A2BA-D67F8382C6E0}|Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading.csproj|c:\\users\\ramaz\\desktop\\constructor \u0026 composition \u0026 overloading\\constructor \u0026 composition \u0026 overloading\\constructor \u0026 composition \u0026 overloading\\constructors\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA781324-F30D-45AB-A2BA-D67F8382C6E0}|Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading.csproj|solutionrelative:constructor \u0026 composition \u0026 overloading\\constructors\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA781324-F30D-45AB-A2BA-D67F8382C6E0}|Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading.csproj|c:\\users\\ramaz\\desktop\\constructor \u0026 composition \u0026 overloading\\constructor \u0026 composition \u0026 overloading\\constructor \u0026 composition \u0026 overloading\\constructors\\pencere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA781324-F30D-45AB-A2BA-D67F8382C6E0}|Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading.csproj|solutionrelative:constructor \u0026 composition \u0026 overloading\\constructors\\pencere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA781324-F30D-45AB-A2BA-D67F8382C6E0}|Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading.csproj|c:\\users\\ramaz\\desktop\\constructor \u0026 composition \u0026 overloading\\constructor \u0026 composition \u0026 overloading\\constructor \u0026 composition \u0026 overloading\\constructors\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA781324-F30D-45AB-A2BA-D67F8382C6E0}|Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading.csproj|solutionrelative:constructor \u0026 composition \u0026 overloading\\constructors\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA781324-F30D-45AB-A2BA-D67F8382C6E0}|Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading.csproj|c:\\users\\ramaz\\desktop\\constructor \u0026 composition \u0026 overloading\\constructor \u0026 composition \u0026 overloading\\constructor \u0026 composition \u0026 overloading\\constructors\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA781324-F30D-45AB-A2BA-D67F8382C6E0}|Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading.csproj|solutionrelative:constructor \u0026 composition \u0026 overloading\\constructors\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA781324-F30D-45AB-A2BA-D67F8382C6E0}|Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading.csproj|c:\\users\\ramaz\\desktop\\constructor \u0026 composition \u0026 overloading\\constructor \u0026 composition \u0026 overloading\\constructor \u0026 composition \u0026 overloading\\constructors\\kasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA781324-F30D-45AB-A2BA-D67F8382C6E0}|Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading.csproj|solutionrelative:constructor \u0026 composition \u0026 overloading\\constructors\\kasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA781324-F30D-45AB-A2BA-D67F8382C6E0}|Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading.csproj|c:\\users\\ramaz\\desktop\\constructor \u0026 composition \u0026 overloading\\constructor \u0026 composition \u0026 overloading\\constructor \u0026 composition \u0026 overloading\\constructors\\kap\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA781324-F30D-45AB-A2BA-D67F8382C6E0}|Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading.csproj|solutionrelative:constructor \u0026 composition \u0026 overloading\\constructors\\kap\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA781324-F30D-45AB-A2BA-D67F8382C6E0}|Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading.csproj|c:\\users\\ramaz\\desktop\\constructor \u0026 composition \u0026 overloading\\constructor \u0026 composition \u0026 overloading\\constructor \u0026 composition \u0026 overloading\\constructors\\fiyat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA781324-F30D-45AB-A2BA-D67F8382C6E0}|Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading.csproj|solutionrelative:constructor \u0026 composition \u0026 overloading\\constructors\\fiyat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Matematik.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Class\\Matematik.cs",
+              "RelativeDocumentMoniker": "Constructor \u0026 Composition \u0026 Overloading\\Class\\Matematik.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Class\\Matematik.cs",
+              "RelativeToolTip": "Constructor \u0026 Composition \u0026 Overloading\\Class\\Matematik.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:59:44.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructors\\Model.cs",
+              "RelativeDocumentMoniker": "Constructor \u0026 Composition \u0026 Overloading\\Constructors\\Model.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructors\\Model.cs",
+              "RelativeToolTip": "Constructor \u0026 Composition \u0026 Overloading\\Constructors\\Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:00:54.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Fiyat.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructors\\Fiyat.cs",
+              "RelativeDocumentMoniker": "Constructor \u0026 Composition \u0026 Overloading\\Constructors\\Fiyat.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructors\\Fiyat.cs",
+              "RelativeToolTip": "Constructor \u0026 Composition \u0026 Overloading\\Constructors\\Fiyat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:00:46.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructors\\Araba.cs",
+              "RelativeDocumentMoniker": "Constructor \u0026 Composition \u0026 Overloading\\Constructors\\Araba.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructors\\Araba.cs",
+              "RelativeToolTip": "Constructor \u0026 Composition \u0026 Overloading\\Constructors\\Araba.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:40:09.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Marka.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructors\\Marka.cs",
+              "RelativeDocumentMoniker": "Constructor \u0026 Composition \u0026 Overloading\\Constructors\\Marka.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructors\\Marka.cs",
+              "RelativeToolTip": "Constructor \u0026 Composition \u0026 Overloading\\Constructors\\Marka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:39:31.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Kasa.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructors\\Kasa.cs",
+              "RelativeDocumentMoniker": "Constructor \u0026 Composition \u0026 Overloading\\Constructors\\Kasa.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructors\\Kasa.cs",
+              "RelativeToolTip": "Constructor \u0026 Composition \u0026 Overloading\\Constructors\\Kasa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:39:25.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pencere.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructors\\Pencere.cs",
+              "RelativeDocumentMoniker": "Constructor \u0026 Composition \u0026 Overloading\\Constructors\\Pencere.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructors\\Pencere.cs",
+              "RelativeToolTip": "Constructor \u0026 Composition \u0026 Overloading\\Constructors\\Pencere.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:39:08.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Kap\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructors\\Kap\u0131.cs",
+              "RelativeDocumentMoniker": "Constructor \u0026 Composition \u0026 Overloading\\Constructors\\Kap\u0131.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructors\\Kap\u0131.cs",
+              "RelativeToolTip": "Constructor \u0026 Composition \u0026 Overloading\\Constructors\\Kap\u0131.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:38:50.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Program.cs",
+              "RelativeDocumentMoniker": "Constructor \u0026 Composition \u0026 Overloading\\Program.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Constructor \u0026 Composition \u0026 Overloading\\Program.cs",
+              "RelativeToolTip": "Constructor \u0026 Composition \u0026 Overloading\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:37:31.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

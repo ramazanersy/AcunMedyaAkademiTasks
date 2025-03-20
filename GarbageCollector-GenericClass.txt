@@ -1,0 +1,59 @@
+C#’ta Garbage Collector (GC) Nedir?
+C#’ta Garbage Collector (Çöp Toplayıcı, GC), yönetilen (managed) bellek üzerinde çalışan ve kullanılmayan nesneleri otomatik olarak temizleyen bir mekanizmadır. .NET Runtime tarafından yönetilir ve System.GC sınıfı ile kontrol edilebilir.
+
+Garbage Collector Nasıl Çalışır?
+GC, Managed Heap adı verilen bir bellek alanında çalışır. Bellekteki nesneleri takip eder ve artık referans edilmeyen nesneleri temizleyerek belleği geri kazanır. Çalışma prensibi şu şekildedir:
+
+Heap Üzerinde Nesneler Tahsis Edilir
+
+.NET uygulamalarında nesneler Managed Heap adı verilen bellekte tahsis edilir.
+Küçük nesneler Small Object Heap (SOH) üzerinde, büyük nesneler ise Large Object Heap (LOH) üzerinde saklanır.
+GC Nesneleri Kategorizasyon Yapar (Generations - Jenerasyonlar)
+GC, nesneleri üç nesil (Generation) seviyesinde yönetir:
+
+Gen 0 (Yeni Nesil): Yeni oluşturulan nesneler buraya yerleştirilir. İlk temizlenen alan burasıdır.
+Gen 1 (Orta Yaşlı Nesiller): Gen 0’dan hayatta kalan nesneler buraya taşınır.
+Gen 2 (Yaşlı Nesiller): Gen 1’den hayatta kalan uzun ömürlü nesneler buraya taşınır. Bu nesneler daha seyrek temizlenir.
+Root’lara Ulaşılabilirliği Kontrol Eder
+
+GC, uygulamadaki kök referansları (roots) takip eder:
+Stack’teki referanslar (Local değişkenler)
+Statik değişkenler
+CPU register'larında tutulan referanslar
+Eğer bir nesneye artık ulaşılmıyorsa, yani herhangi bir kök referans tarafından tutulmuyorsa, GC bu nesneyi temizlemeye aday olarak işaretler.
+Çöp Toplama İşlemi (Mark & Sweep, Compact)
+
+Mark: GC erişilebilir nesneleri işaretler.
+Sweep: İşaretlenmeyen nesneler silinir.
+Compact: Bellekte parçalanmayı önlemek için nesneler sıkıştırılır ve taşınır.
+
+Garbage Collector’ın Bellek Yönetimindeki Rolü ?
+Garbage Collector (GC), C# ve .NET ortamında otomatik bellek yönetimi sağlayarak bellek tahsisi ve serbest bırakma işlemlerini optimize eder. Manuel bellek yönetimine ihtiyaç duymadan bellek sızıntılarını önlemeye yardımcı olur. 
+
+
+
+
+Generic Nedir?
+Generic’ler, tür bağımsız (type-safe) programlama yapmamızı sağlar. Tip güvenliği (Type Safety) sunarak kod tekrarını önler ve performansı artırır. Generic yapılar, belirli bir veri tipine bağlı kalmadan çalışabilir.
+
+Generic Class (Generic Sınıflar)
+Generic class’lar, farklı veri tipleriyle çalışabilen sınıflardır. <> köşeli parantezler içinde tür parametreleri alırlar.
+
+GENERIC CLASS AVANTAJLARI
+C#’ta Generic yapılar, tür güvenliği sağlayarak kodun daha güvenilir ve esnek olmasını mümkün kılar. Generic sınıflar ve metodlar, farklı veri türleriyle çalışabilen yapılar sunarak kod tekrarını önler ve bakım maliyetini azaltır. Generic kullanımı, List<T>, Dictionary<TKey, TValue> gibi koleksiyonlarla doğrudan uyumlu olduğu için C# ekosisteminde standart hale gelmiştir. Ayrıca, Generic yapılar sayesinde Boxing & Unboxing işlemlerine gerek kalmaz, böylece bellek ve işlemci performansı önemli ölçüde artırılır. Generic kullanarak tür dönüşümlerinden kaynaklanan hataların önüne geçilebilir ve çalışma zamanı yerine derleme aşamasında hatalar tespit edilebilir. Tüm bu avantajları sayesinde Generic yapılar, özellikle büyük ölçekli ve uzun vadeli projelerde kodun daha modüler, ölçeklenebilir ve yönetilebilir olmasını sağlar.
+
+Generic sınıf ve metotlarla esnek programlama nasıl yapılır?
+C#’ta Generic sınıf ve metotlar, tür bağımsızlığı sağlayarak kodun farklı veri tipleriyle esnek şekilde çalışmasını mümkün kılar. Generic yapılar sayesinde aynı sınıf veya metot, farklı türlerde kullanılabilir, böylece kod tekrarından kaçınılır ve bakım süreci kolaylaşır. Örneğin, class GenericClass<T> tanımlayarak herhangi bir veri türüyle çalışan bir yapı oluşturabilir veya void Print<T>(T value) şeklinde bir metot yazarak farklı veri türlerini işleyebiliriz. Ayrıca, Generic kullanımı sayesinde Boxing & Unboxing işlemleri ortadan kalkar ve performans artışı sağlanır. Tür güvenliği sunduğu için çalışma zamanı hataları yerine derleme aşamasında hatalar yakalanabilir, bu da daha güvenilir ve esnek bir yazılım geliştirme süreci sağlar.
+
+
+Boxing & Unboxing nedir ve performansa etkisi nedir?
+Boxing, bir değer tipini (int, double, bool gibi), nesne (object) tipine dönüştürme işlemidir. Unboxing ise bunun tersidir, yani bir object türündeki değeri tekrar özgün değer tipine dönüştürme işlemidir. Boxing, heap (yığın) bellekte ek bellek tahsisi gerektirdiğinden performans açısından maliyetlidir ve gereksiz boxing işlemleri bellek tüketimini ve GC (Garbage Collector) yükünü artırabilir. Bu yüzden, özellikle büyük ölçekli uygulamalarda gereksiz boxing/unboxing işlemlerinden kaçınılması önerilir.
+
+
+
+
+
+
+
+
+
