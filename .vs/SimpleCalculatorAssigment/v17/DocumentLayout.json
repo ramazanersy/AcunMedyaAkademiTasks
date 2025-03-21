@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramaz\\Desktop\\SimpleCalculatorAssigment\\SimpleCalculatorAssigment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F15F3DEE-47D1-489E-9B3F-6EB301C8EB0B}|SimpleCalculatorAssigment\\SimpleCalculatorAssigment.csproj|c:\\users\\ramaz\\desktop\\simplecalculatorassigment\\simplecalculatorassigment\\simplecalculatorassigment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15F3DEE-47D1-489E-9B3F-6EB301C8EB0B}|SimpleCalculatorAssigment\\SimpleCalculatorAssigment.csproj|solutionrelative:simplecalculatorassigment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\SimpleCalculatorAssigment\\SimpleCalculatorAssigment\\SimpleCalculatorAssigment\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleCalculatorAssigment\\Program.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\SimpleCalculatorAssigment\\SimpleCalculatorAssigment\\SimpleCalculatorAssigment\\Program.cs",
+              "RelativeToolTip": "SimpleCalculatorAssigment\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAkwDEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T20:03:05.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
