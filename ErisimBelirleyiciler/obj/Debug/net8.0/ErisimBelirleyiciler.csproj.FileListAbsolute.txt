@@ -1,0 +1,14 @@
+C:\Users\ramaz\Desktop\ErisimBelirleyiciler\ErisimBelirleyiciler\ErisimBelirleyiciler\bin\Debug\net8.0\ErisimBelirleyiciler.exe
+C:\Users\ramaz\Desktop\ErisimBelirleyiciler\ErisimBelirleyiciler\ErisimBelirleyiciler\bin\Debug\net8.0\ErisimBelirleyiciler.deps.json
+C:\Users\ramaz\Desktop\ErisimBelirleyiciler\ErisimBelirleyiciler\ErisimBelirleyiciler\bin\Debug\net8.0\ErisimBelirleyiciler.runtimeconfig.json
+C:\Users\ramaz\Desktop\ErisimBelirleyiciler\ErisimBelirleyiciler\ErisimBelirleyiciler\bin\Debug\net8.0\ErisimBelirleyiciler.dll
+C:\Users\ramaz\Desktop\ErisimBelirleyiciler\ErisimBelirleyiciler\ErisimBelirleyiciler\bin\Debug\net8.0\ErisimBelirleyiciler.pdb
+C:\Users\ramaz\Desktop\ErisimBelirleyiciler\ErisimBelirleyiciler\ErisimBelirleyiciler\obj\Debug\net8.0\ErisimBelirleyiciler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramaz\Desktop\ErisimBelirleyiciler\ErisimBelirleyiciler\ErisimBelirleyiciler\obj\Debug\net8.0\ErisimBelirleyiciler.AssemblyInfoInputs.cache
+C:\Users\ramaz\Desktop\ErisimBelirleyiciler\ErisimBelirleyiciler\ErisimBelirleyiciler\obj\Debug\net8.0\ErisimBelirleyiciler.AssemblyInfo.cs
+C:\Users\ramaz\Desktop\ErisimBelirleyiciler\ErisimBelirleyiciler\ErisimBelirleyiciler\obj\Debug\net8.0\ErisimBelirleyiciler.csproj.CoreCompileInputs.cache
+C:\Users\ramaz\Desktop\ErisimBelirleyiciler\ErisimBelirleyiciler\ErisimBelirleyiciler\obj\Debug\net8.0\ErisimBelirleyiciler.dll
+C:\Users\ramaz\Desktop\ErisimBelirleyiciler\ErisimBelirleyiciler\ErisimBelirleyiciler\obj\Debug\net8.0\refint\ErisimBelirleyiciler.dll
+C:\Users\ramaz\Desktop\ErisimBelirleyiciler\ErisimBelirleyiciler\ErisimBelirleyiciler\obj\Debug\net8.0\ErisimBelirleyiciler.pdb
+C:\Users\ramaz\Desktop\ErisimBelirleyiciler\ErisimBelirleyiciler\ErisimBelirleyiciler\obj\Debug\net8.0\ErisimBelirleyiciler.genruntimeconfig.cache
+C:\Users\ramaz\Desktop\ErisimBelirleyiciler\ErisimBelirleyiciler\ErisimBelirleyiciler\obj\Debug\net8.0\ref\ErisimBelirleyiciler.dll
