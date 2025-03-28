@@ -1,0 +1,26 @@
+Görsel Programlama Nedir?
+Görsel programlama, kod yazmadan veya minimum kod kullanarak, grafiksel arayüzler ve bileşenler yardımıyla yazılım geliştirmeyi sağlayan bir programlama paradigmasıdır. Kullanıcılar, sürükle-bırak yöntemiyle bileşenleri yerleştirerek ve ayarlarını yapılandırarak uygulamalar oluşturabilirler. Bu tür programlama genellikle blok tabanlı veya arayüz odaklı geliştirme ortamlarında kullanılır.
+
+Metin Tabanlı Programlamadan Farkları:
+
+Kod Yazma Zorunluluğu: Görsel programlamada kod yazma gereksinimi minimum düzeydedir veya hiç yoktur, ancak metin tabanlı programlamada her şey doğrudan kod ile gerçekleştirilir.
+
+Kullanıcı Dostu Arayüz: Görsel programlama, genellikle sürükle-bırak özelliklerine sahip olduğu için daha kullanıcı dostudur.
+
+Öğrenme Kolaylığı: Başlangıç seviyesi kullanıcılar için öğrenmesi daha kolaydır, çünkü kod sözdizimi ile uğraşmak gerekmez.
+
+Hızlı Prototipleme: Görsel programlama, hızlı prototip oluşturmayı ve UI (kullanıcı arayüzü) tasarlamayı kolaylaştırır.
+
+Esneklik: Metin tabanlı programlama, daha esnektir ve büyük ölçekli projelerde daha fazla kontrol sağlar. Görsel programlama ise genellikle belirli bir çerçeve veya platform ile sınırlıdır.
+
+Kapsam: Görsel programlama genellikle oyun geliştirme (Scratch, Unreal Engine Blueprint), uygulama tasarımı (PowerApps) veya robotik kodlama gibi alanlarda kullanılırken, metin tabanlı programlama çok daha geniş bir kullanım alanına sahiptir.
+
+Özetle, görsel programlama özellikle hızlı geliştirme ve başlangıç seviyesindeki kullanıcılar için avantajlıdır, ancak büyük ölçekli ve karmaşık projelerde metin tabanlı programlama daha fazla esneklik ve kontrol sağlar.
+
+
+
+
+
+
+
+

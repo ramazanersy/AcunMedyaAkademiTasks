@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramaz\\Desktop\\Generic List VeNesne Kullan\u0131m\u0131\\Generic List ve Nesne Kullan\u0131m\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A17B14A-99D8-4DBC-A16E-2E29C3F52661}|Generic List ve Nesne Kullan\u0131m\u0131\\Generic List ve Nesne Kullan\u0131m\u0131.csproj|c:\\users\\ramaz\\desktop\\generic list venesne kullan\u0131m\u0131\\generic list ve nesne kullan\u0131m\u0131\\generic list ve nesne kullan\u0131m\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A17B14A-99D8-4DBC-A16E-2E29C3F52661}|Generic List ve Nesne Kullan\u0131m\u0131\\Generic List ve Nesne Kullan\u0131m\u0131.csproj|solutionrelative:generic list ve nesne kullan\u0131m\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A17B14A-99D8-4DBC-A16E-2E29C3F52661}|Generic List ve Nesne Kullan\u0131m\u0131\\Generic List ve Nesne Kullan\u0131m\u0131.csproj|c:\\users\\ramaz\\desktop\\generic list venesne kullan\u0131m\u0131\\generic list ve nesne kullan\u0131m\u0131\\generic list ve nesne kullan\u0131m\u0131\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A17B14A-99D8-4DBC-A16E-2E29C3F52661}|Generic List ve Nesne Kullan\u0131m\u0131\\Generic List ve Nesne Kullan\u0131m\u0131.csproj|solutionrelative:generic list ve nesne kullan\u0131m\u0131\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A17B14A-99D8-4DBC-A16E-2E29C3F52661}|Generic List ve Nesne Kullan\u0131m\u0131\\Generic List ve Nesne Kullan\u0131m\u0131.csproj|c:\\users\\ramaz\\desktop\\generic list venesne kullan\u0131m\u0131\\generic list ve nesne kullan\u0131m\u0131\\generic list ve nesne kullan\u0131m\u0131\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A17B14A-99D8-4DBC-A16E-2E29C3F52661}|Generic List ve Nesne Kullan\u0131m\u0131\\Generic List ve Nesne Kullan\u0131m\u0131.csproj|solutionrelative:generic list ve nesne kullan\u0131m\u0131\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A17B14A-99D8-4DBC-A16E-2E29C3F52661}|Generic List ve Nesne Kullan\u0131m\u0131\\Generic List ve Nesne Kullan\u0131m\u0131.csproj|c:\\users\\ramaz\\desktop\\generic list venesne kullan\u0131m\u0131\\generic list ve nesne kullan\u0131m\u0131\\generic list ve nesne kullan\u0131m\u0131\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A17B14A-99D8-4DBC-A16E-2E29C3F52661}|Generic List ve Nesne Kullan\u0131m\u0131\\Generic List ve Nesne Kullan\u0131m\u0131.csproj|solutionrelative:generic list ve nesne kullan\u0131m\u0131\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\Generic List VeNesne Kullan\u0131m\u0131\\Generic List ve Nesne Kullan\u0131m\u0131\\Generic List ve Nesne Kullan\u0131m\u0131\\Araba.cs",
+              "RelativeDocumentMoniker": "Generic List ve Nesne Kullan\u0131m\u0131\\Araba.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\Generic List VeNesne Kullan\u0131m\u0131\\Generic List ve Nesne Kullan\u0131m\u0131\\Generic List ve Nesne Kullan\u0131m\u0131\\Araba.cs",
+              "RelativeToolTip": "Generic List ve Nesne Kullan\u0131m\u0131\\Araba.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T19:46:52.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\Generic List VeNesne Kullan\u0131m\u0131\\Generic List ve Nesne Kullan\u0131m\u0131\\Generic List ve Nesne Kullan\u0131m\u0131\\Model.cs",
+              "RelativeDocumentMoniker": "Generic List ve Nesne Kullan\u0131m\u0131\\Model.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\Generic List VeNesne Kullan\u0131m\u0131\\Generic List ve Nesne Kullan\u0131m\u0131\\Generic List ve Nesne Kullan\u0131m\u0131\\Model.cs",
+              "RelativeToolTip": "Generic List ve Nesne Kullan\u0131m\u0131\\Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T19:45:07.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Marka.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\Generic List VeNesne Kullan\u0131m\u0131\\Generic List ve Nesne Kullan\u0131m\u0131\\Generic List ve Nesne Kullan\u0131m\u0131\\Marka.cs",
+              "RelativeDocumentMoniker": "Generic List ve Nesne Kullan\u0131m\u0131\\Marka.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\Generic List VeNesne Kullan\u0131m\u0131\\Generic List ve Nesne Kullan\u0131m\u0131\\Generic List ve Nesne Kullan\u0131m\u0131\\Marka.cs",
+              "RelativeToolTip": "Generic List ve Nesne Kullan\u0131m\u0131\\Marka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T19:42:49.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\Generic List VeNesne Kullan\u0131m\u0131\\Generic List ve Nesne Kullan\u0131m\u0131\\Generic List ve Nesne Kullan\u0131m\u0131\\Program.cs",
+              "RelativeDocumentMoniker": "Generic List ve Nesne Kullan\u0131m\u0131\\Program.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\Generic List VeNesne Kullan\u0131m\u0131\\Generic List ve Nesne Kullan\u0131m\u0131\\Generic List ve Nesne Kullan\u0131m\u0131\\Program.cs",
+              "RelativeToolTip": "Generic List ve Nesne Kullan\u0131m\u0131\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T19:35:55.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
