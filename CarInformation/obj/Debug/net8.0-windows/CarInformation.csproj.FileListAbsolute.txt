@@ -1,0 +1,16 @@
+C:\Users\ramaz\Desktop\CarInformation\CarInformation\CarInformation\bin\Debug\net8.0-windows\CarInformation.exe
+C:\Users\ramaz\Desktop\CarInformation\CarInformation\CarInformation\bin\Debug\net8.0-windows\CarInformation.deps.json
+C:\Users\ramaz\Desktop\CarInformation\CarInformation\CarInformation\bin\Debug\net8.0-windows\CarInformation.runtimeconfig.json
+C:\Users\ramaz\Desktop\CarInformation\CarInformation\CarInformation\bin\Debug\net8.0-windows\CarInformation.dll
+C:\Users\ramaz\Desktop\CarInformation\CarInformation\CarInformation\bin\Debug\net8.0-windows\CarInformation.pdb
+C:\Users\ramaz\Desktop\CarInformation\CarInformation\CarInformation\obj\Debug\net8.0-windows\CarInformation.Form1.resources
+C:\Users\ramaz\Desktop\CarInformation\CarInformation\CarInformation\obj\Debug\net8.0-windows\CarInformation.csproj.GenerateResource.cache
+C:\Users\ramaz\Desktop\CarInformation\CarInformation\CarInformation\obj\Debug\net8.0-windows\CarInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramaz\Desktop\CarInformation\CarInformation\CarInformation\obj\Debug\net8.0-windows\CarInformation.AssemblyInfoInputs.cache
+C:\Users\ramaz\Desktop\CarInformation\CarInformation\CarInformation\obj\Debug\net8.0-windows\CarInformation.AssemblyInfo.cs
+C:\Users\ramaz\Desktop\CarInformation\CarInformation\CarInformation\obj\Debug\net8.0-windows\CarInformation.csproj.CoreCompileInputs.cache
+C:\Users\ramaz\Desktop\CarInformation\CarInformation\CarInformation\obj\Debug\net8.0-windows\CarInformation.dll
+C:\Users\ramaz\Desktop\CarInformation\CarInformation\CarInformation\obj\Debug\net8.0-windows\refint\CarInformation.dll
+C:\Users\ramaz\Desktop\CarInformation\CarInformation\CarInformation\obj\Debug\net8.0-windows\CarInformation.pdb
+C:\Users\ramaz\Desktop\CarInformation\CarInformation\CarInformation\obj\Debug\net8.0-windows\CarInformation.genruntimeconfig.cache
+C:\Users\ramaz\Desktop\CarInformation\CarInformation\CarInformation\obj\Debug\net8.0-windows\ref\CarInformation.dll
