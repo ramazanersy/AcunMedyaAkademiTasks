@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramaz\\Desktop\\ReflectionOdev\\ReflectionOdev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78B8F341-95A4-4778-B0BB-025B49BB5B54}|ReflectionOdev\\ReflectionOdev.csproj|c:\\users\\ramaz\\desktop\\reflectionodev\\reflectionodev\\reflectionodev\\iodemeyontemi\\iodemeyontemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B8F341-95A4-4778-B0BB-025B49BB5B54}|ReflectionOdev\\ReflectionOdev.csproj|solutionrelative:reflectionodev\\iodemeyontemi\\iodemeyontemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B8F341-95A4-4778-B0BB-025B49BB5B54}|ReflectionOdev\\ReflectionOdev.csproj|c:\\users\\ramaz\\desktop\\reflectionodev\\reflectionodev\\reflectionodev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B8F341-95A4-4778-B0BB-025B49BB5B54}|ReflectionOdev\\ReflectionOdev.csproj|solutionrelative:reflectionodev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B8F341-95A4-4778-B0BB-025B49BB5B54}|ReflectionOdev\\ReflectionOdev.csproj|c:\\users\\ramaz\\desktop\\reflectionodev\\reflectionodev\\reflectionodev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B8F341-95A4-4778-B0BB-025B49BB5B54}|ReflectionOdev\\ReflectionOdev.csproj|solutionrelative:reflectionodev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B8F341-95A4-4778-B0BB-025B49BB5B54}|ReflectionOdev\\ReflectionOdev.csproj|c:\\users\\ramaz\\desktop\\reflectionodev\\reflectionodev\\reflectionodev\\iodemeyontemi\\kredikarti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B8F341-95A4-4778-B0BB-025B49BB5B54}|ReflectionOdev\\ReflectionOdev.csproj|solutionrelative:reflectionodev\\iodemeyontemi\\kredikarti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B8F341-95A4-4778-B0BB-025B49BB5B54}|ReflectionOdev\\ReflectionOdev.csproj|c:\\users\\ramaz\\desktop\\reflectionodev\\reflectionodev\\reflectionodev\\iodemeyontemi\\havale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B8F341-95A4-4778-B0BB-025B49BB5B54}|ReflectionOdev\\ReflectionOdev.csproj|solutionrelative:reflectionodev\\iodemeyontemi\\havale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B8F341-95A4-4778-B0BB-025B49BB5B54}|ReflectionOdev\\ReflectionOdev.csproj|c:\\users\\ramaz\\desktop\\reflectionodev\\reflectionodev\\reflectionodev\\iodemeyontemi\\eft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B8F341-95A4-4778-B0BB-025B49BB5B54}|ReflectionOdev\\ReflectionOdev.csproj|solutionrelative:reflectionodev\\iodemeyontemi\\eft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B8F341-95A4-4778-B0BB-025B49BB5B54}|ReflectionOdev\\ReflectionOdev.csproj|C:\\Users\\ramaz\\Desktop\\ReflectionOdev\\ReflectionOdev\\reflectionodev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78B8F341-95A4-4778-B0BB-025B49BB5B54}|ReflectionOdev\\ReflectionOdev.csproj|solutionrelative:reflectionodev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EFT.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\ReflectionOdev\\ReflectionOdev\\ReflectionOdev\\IOdemeYontemi\\EFT.cs",
+              "RelativeDocumentMoniker": "ReflectionOdev\\IOdemeYontemi\\EFT.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\ReflectionOdev\\ReflectionOdev\\ReflectionOdev\\IOdemeYontemi\\EFT.cs",
+              "RelativeToolTip": "ReflectionOdev\\IOdemeYontemi\\EFT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:18:17.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Havale.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\ReflectionOdev\\ReflectionOdev\\ReflectionOdev\\IOdemeYontemi\\Havale.cs",
+              "RelativeDocumentMoniker": "ReflectionOdev\\IOdemeYontemi\\Havale.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\ReflectionOdev\\ReflectionOdev\\ReflectionOdev\\IOdemeYontemi\\Havale.cs",
+              "RelativeToolTip": "ReflectionOdev\\IOdemeYontemi\\Havale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:17:37.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KrediKarti.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\ReflectionOdev\\ReflectionOdev\\ReflectionOdev\\IOdemeYontemi\\KrediKarti.cs",
+              "RelativeDocumentMoniker": "ReflectionOdev\\IOdemeYontemi\\KrediKarti.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\ReflectionOdev\\ReflectionOdev\\ReflectionOdev\\IOdemeYontemi\\KrediKarti.cs",
+              "RelativeToolTip": "ReflectionOdev\\IOdemeYontemi\\KrediKarti.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:16:58.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IOdemeYontemi.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\ReflectionOdev\\ReflectionOdev\\ReflectionOdev\\IOdemeYontemi\\IOdemeYontemi.cs",
+              "RelativeDocumentMoniker": "ReflectionOdev\\IOdemeYontemi\\IOdemeYontemi.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\ReflectionOdev\\ReflectionOdev\\ReflectionOdev\\IOdemeYontemi\\IOdemeYontemi.cs",
+              "RelativeToolTip": "ReflectionOdev\\IOdemeYontemi\\IOdemeYontemi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:16:06.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\ReflectionOdev\\ReflectionOdev\\ReflectionOdev\\Program.cs",
+              "RelativeDocumentMoniker": "ReflectionOdev\\Program.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\ReflectionOdev\\ReflectionOdev\\ReflectionOdev\\Program.cs",
+              "RelativeToolTip": "ReflectionOdev\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:13:55.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\ReflectionOdev\\ReflectionOdev\\ReflectionOdev\\Form1.cs",
+              "RelativeDocumentMoniker": "ReflectionOdev\\Form1.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\ReflectionOdev\\ReflectionOdev\\ReflectionOdev\\Form1.cs",
+              "RelativeToolTip": "ReflectionOdev\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T15:58:22.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\ReflectionOdev\\ReflectionOdev\\ReflectionOdev\\Form1.cs",
+              "RelativeDocumentMoniker": "ReflectionOdev\\Form1.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\ReflectionOdev\\ReflectionOdev\\ReflectionOdev\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ReflectionOdev\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T15:55:41.103Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

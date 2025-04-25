@@ -1,0 +1,69 @@
+Attribute Nedir? 
+Attribute, C#'ta sınıf, metod, özellik gibi yapılara ek bilgi (metadata) eklememizi sağlayan yapılardır. Derleyiciye veya çalışma zamanına bu yapılarla ilgili ek anlam kazandırırlar.
+
+ Nerelerde ve Neden Kullanılır?
+Yönlendirme: Kodun nasıl çalışacağını etkileyebilir.
+
+Uyarı / Dokümantasyon: Eski kodları [Obsolete] ile işaretleyebiliriz.
+
+Veri doğrulama: [Required], [MaxLength] gibi validation işlemleri.
+
+Serileştirme, JSON dönüşümü, MVC binding vs.
+
+Gerçek Örnekler:
+
+[Obsolete]: Eski metotlar için uyarı verir.
+
+[Required]: Boş geçilemeyen alanları belirtir (ASP.NET model validation).
+
+[Serializable]: Nesnenin serileştirilebileceğini belirtir.
+
+ Kendi Attribute’unu Nasıl Tanımlarsın?
+csharp
+Kopyala
+Düzenle
+[AttributeUsage(AttributeTargets.Class | AttributeTargets.Method)]
+public class DeveloperAttribute : Attribute
+{
+    public string Name { get; }
+    public DeveloperAttribute(string name) => Name = name;
+}
+Kullanımı:
+
+csharp
+Kopyala
+Düzenle
+[Developer("Ayşe")]
+public class SampleClass { }
+
+ Bir Attribute Nasıl Okunur? (Reflection ile)
+csharp
+Kopyala
+Düzenle
+var attr = typeof(SampleClass)
+    .GetCustomAttributes(typeof(DeveloperAttribute), false)
+    .FirstOrDefault() as DeveloperAttribute;
+
+Console.WriteLine(attr?.Name); // Çıktı: Ayşe
+
+ Attribute ile Veri Doğrulama (Validation) Nasıl Yapılır?
+📌 Örnek:
+
+csharp
+Kopyala
+Düzenle
+public class User
+{
+    [Required]
+    public string Name { get; set; }
+}
+📌 Kontrol:
+
+csharp
+Kopyala
+Düzenle
+var prop = typeof(User).GetProperty("Name");
+bool isRequired = Attribute.IsDefined(prop, typeof(RequiredAttribute));
+
+if (isRequired && string.IsNullOrEmpty(new User().Name))
+    Console.WriteLine("Name alanı boş geçilemez.");
