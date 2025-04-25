@@ -1,0 +1,24 @@
+ Inner Class (İç Sınıf)
+Bir sınıfın içinde tanımlanmış başka bir sınıftır.
+Dış sınıfla yakından ilişkili görevlerde kullanılır.
+Dış sınıfın özelliklerine ve metotlarına erişebilir.
+
+ Anonymous Class (Anonim Sınıf)
+Adı olmayan, tek seferlik oluşturulan sınıflardır.
+Genellikle bir arayüzü ya da soyut sınıfı hızlıca uygulamak için kullanılır.
+Tek bir amaç için, genelde kısa süreli ihtiyaçlarda tercih edilir.
+
+ Static Class (Statik Sınıf)
+Java'da sadece iç sınıflar static olabilir.
+Statik sınıflar, dış sınıfın örneği olmadan kullanılabilir.
+Dış sınıfla doğrudan bağlantı kurmazlar (non-static alanlara erişemez).
+
+ Static Metot (Statik Metot)
+Sınıfa ait olan ve nesne oluşturmadan çalıştırılabilen metotlardır.
+Ortak görevler için kullanılır.
+Genelde "yardımcı" metotlardır.
+
+ Static Değişken (Statik Değişken)
+Sınıfa ait olan ve tüm nesneler tarafından paylaşılan bir değişkendir.
+Sadece bir kere belleğe alınır.
+Her nesne aynı değeri paylaşır (ortaktır).
