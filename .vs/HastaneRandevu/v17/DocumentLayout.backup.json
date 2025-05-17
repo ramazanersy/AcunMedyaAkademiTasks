@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramaz\\Desktop\\HastaneRandevu\\HastaneRandevu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06B04081-6CB7-4E15-B0ED-1BFF06E68EB0}|HastaneRandevu\\HastaneRandevu.csproj|c:\\users\\ramaz\\desktop\\hastanerandevu\\hastanerandevu\\hastanerandevu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06B04081-6CB7-4E15-B0ED-1BFF06E68EB0}|HastaneRandevu\\HastaneRandevu.csproj|solutionrelative:hastanerandevu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ramaz\\Desktop\\HastaneRandevu\\HastaneRandevu\\HastaneRandevu\\Form1.cs",
+              "RelativeDocumentMoniker": "HastaneRandevu\\Form1.cs",
+              "ToolTip": "C:\\Users\\ramaz\\Desktop\\HastaneRandevu\\HastaneRandevu\\HastaneRandevu\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HastaneRandevu\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:14:36.429Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
